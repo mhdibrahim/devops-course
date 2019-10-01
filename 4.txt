@@ -1,1 +1,2 @@
 Branch example file
+Now modified by master branch
